@@ -1,0 +1,24 @@
+{
+  "name": "landing",
+  "version": "1.0.0",
+  "description": "Landing page for psyvey",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Kareem Phillip-Jackson",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0",
+    "@zeit/next-css": "^1.0.1",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.5.0",
+    "next": "^9.4.2",
+    "next-react-svg": "^1.1.1",
+    "react": "^16.13.1",
+    "react-bootstrap": "^1.0.1",
+    "react-dom": "^16.13.1"
+  }
+}
